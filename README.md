@@ -3,6 +3,9 @@ ola meu nome é Thais Lopes
 Estou estudando na Alura
 Estou me desenvolvendo na linguagem JavaScript
 Utilizo esse espaço para minha organização e compartilhamento dos meu projetos desenvolvidos
+Você pode entrar em contato comigo 📫
+0001137630590sp@aluno.educacao.sp.gov.br
+@thaisdiva00
 <!--
 **thaisdiva00/thaisdiva00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
